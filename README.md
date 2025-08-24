@@ -1,6 +1,8 @@
+<img width="370" height="786" alt="fotoandroid" src="https://github.com/user-attachments/assets/cfc7ad54-4623-47fd-a8c5-ef3d30d041e3" />
 
-<img width="465" height="985" alt="androidfoto" src="https://github.com/user-attachments/assets/5a0217b7-df2c-4d62-aa77-113bb191620e" />
+<img width="370" height="786" alt="fotoandroiddio" src="https://github.com/user-attachments/assets/0c9129a5-53d9-476f-b3f5-80223a17aecf" />
 
+<br><br><br>
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
